@@ -19,5 +19,10 @@ A passionate developer specializing in React and Node.js, currently working on i
 
 ## 📊 My GitHub Stats  
 
-![Simon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SGriscelli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SGriscelli&show_icons=true&theme=radical&hide=issues&count_private=true)  
+> **Active contributions**: I’ve been consistently pushing code and working on impactful projects.  
+> **Private repositories included**: Get the full picture of my work beyond public repositories.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical&langs_count=6)  
+> **A diverse skill set**: Proficient in multiple languages, including JavaScript, SQL, and more.  
+
