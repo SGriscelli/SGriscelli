@@ -16,3 +16,8 @@ A passionate developer specializing in React and Node.js, currently working on i
 - [Open Letter - Hackathon](https://github.com/Juloh-tuc/Hackathon): A collaborative project created during a hackathon.  
 
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/simon-griscelli) or check out my other projects here!  
+
+## 📊 My GitHub Stats  
+
+![Simon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SGriscelli&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical)  
