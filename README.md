@@ -27,6 +27,5 @@ A passionate developer specializing in React and Node.js, currently working on i
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical&langs_count=6)  
-> **A diverse skill set**: Proficient in multiple languages, including JavaScript, SQL, and more.
 
 
