@@ -26,6 +26,8 @@ A passionate developer specializing in React and Node.js, currently working on i
 ## 📊 My GitHub Stats  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical&langs_count=6)  
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGriscelli&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
+  <p><b>A diverse skill set:</b> Proficient in multiple languages, including JavaScript, SQL, and more.</p>
+</div>
